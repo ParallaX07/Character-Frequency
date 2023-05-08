@@ -1,2 +1,5 @@
 # Character-Frequency
-Read a composition of English words. Show the character frequency of each line. Show the word frequency of each line. Output the character frequency in a CSV file.
+Reads a composition of English words from an input.txt file. (Sample input.txt file provided)
+Shows the character frequency of each line. 
+Shows the word frequency of each line. 
+Outputs the character frequency in a CSV file.
